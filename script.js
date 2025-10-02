@@ -7,3 +7,4 @@ function aplicarColorAleatorio() {
     titulo.style.color = colorAleatorio;
     }
 }
+
